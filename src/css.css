@@ -1,0 +1,66 @@
+@font-face {
+    font-family: hacuia;
+    src: url(hacuia.otf);
+}
+
+.hacuia{
+    font-family: hacuia;
+}
+
+@font-face {
+    font-family: worksans;
+    src: url(WorkSans-VariableFont_wght.ttf);
+}
+
+.worksans{
+    font-family: worksans;
+}
+
+@font-face {
+    font-family: rawon;
+    src: url(RawonDemo.ttf);
+}
+
+.rawon{
+    font-family: rawon;
+}
+
+@font-face {
+    font-family: geomotos;
+    src: url(Geometos.ttf);
+}
+
+.geomotos{
+    font-family: geomotos;
+}
+
+@font-face {
+    font-family: tommy;
+    src: url(MADE\ TOMMY\ Medium_PERSONAL\ USE.otf);
+}
+
+.tommy{
+    font-family: tommy;
+}
+
+@font-face {
+    font-family: louis;
+    src: url(Louis\ George\ Cafe.ttf);
+}
+
+.louis{
+    font-family: louis;
+}
+
+@font-face {
+    font-family: keepcalm;
+    src: url(KeepCalm-Medium.ttf);
+}
+
+.keepcalm{
+    font-family: keepcalm;
+}
+
+
+
+
