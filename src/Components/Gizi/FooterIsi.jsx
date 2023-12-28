@@ -1,5 +1,4 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
 import linkedin from "../Gambar/linkedin.png"
 import insta from "../Gambar/ig.png"
 import fb from "../Gambar/facebook.png"
